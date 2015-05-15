@@ -1,7 +1,11 @@
-al-got-rhythm
-=============
+LinkedIn in German
+==================
 
-Wenn Sie zuverlässige IT bringen kann, dann kann ich über 50.000 Stunden von festen **Capital Growth auf Unix** zu bringen, und über 10k jeweils Unterricht, C, C ++, **Python**, Bash, SCM Stunden. Ich möchte über einen MSc bald zu sprechen.
+
+Arbeiten in Open Source-Konformität für größere Unternehmen jetzt.
+
+
+Ich kann über 50.000 Stunden von festen Capital Growth auf Unix zu bringen, und über 10k jeweils Unterricht, C, C ++, Python, Bash, SCM Stunden. Ich möchte über einen MSc bald zu sprechen.
 
 
 **Senior SCM-Ingenieur**, S3-Gruppe, 2014 - Heute, Cork, Irland

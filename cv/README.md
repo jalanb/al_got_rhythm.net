@@ -8,7 +8,7 @@ Arbeiten in Open Source-Konformität für größere Unternehmen jetzt.
 Ich kann über 50.000 Stunden von festen Capital Growth auf Unix zu bringen, und über 10k jeweils Unterricht, C, C ++, Python, Bash, SCM Stunden. Ich möchte über einen MSc bald zu sprechen.
 
 
-**Senior SCM-Ingenieur**, S3-Gruppe, 2014 - Heute, Cork, Irland
+**SCM-Ingenieur**, S3-Gruppe, 2014 - Heute, Cork, Irland
 
 Dazu beigetragen, bedeutende Aufträge für S3-Gruppe zu sichern, sondern wartete im Monat für eine Netzwerkverbindung.
 

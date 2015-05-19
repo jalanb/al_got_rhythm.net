@@ -1,7 +1,7 @@
 SCM-Ingenieur, S3-Gruppe,
 SCM, Altobridge,
 CTO, Omnify Systems,
-Führer, Interwave
+Gruppenleiter, Interwave
 Co Founder,  Mikrozellulare
 Coder, Flextime
 Lehrer, Allied Compter Training

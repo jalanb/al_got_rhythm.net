@@ -1,74 +1,92 @@
-al-got-rhythm
-=============
+Experience
+Senior SCM Engineer
+S3 Group
+January 2014 – Present (1 year 5 months)Cork, Ireland
 
-Wenn Sie zuverlässige IT bringen kann, dann kann ich über 50.000 Stunden von festen **Capital Growth auf Unix** zu bringen, und über 10k jeweils Unterricht, C, C ++, **Python**, Bash, SCM Stunden. Ich möchte über einen MSc bald zu sprechen.
+Secured significant contracts from blue chip clients for S3 Group, scripting Blackduck's suite of tools to ensure Open Source Licence (and other) compliance in source code from large teams of developers in multiple companies. Pleased to find that the pedantry honed on programming questions is just as useful to legal ones.
 
+Tools: Linux, Python, Bash, Git, Gerrit, Jenkins, Jira, ...
 
-**Senior SCM-Ingenieur**, S3-Gruppe, 2014 - Heute, Cork, Irland
+Interesting project: writing #licenses, #tags, ..., onto some Slack channels while conversing on others.
 
-Dazu beigetragen, bedeutende Aufträge für S3-Gruppe zu sichern, sondern wartete im Monat für eine Netzwerkverbindung.
-
-**Interessant:**
-
-**Python** bot schriftlich #licenses in Slack Kanäle für #tags, #git, #jenkins, #gerrit, #jira,
-
-
-**SCM**
+SCM
 Altobridge
-2005 - Dezember 2013 (8 Jahre) Tralee
+2005 – December 2013 (8 years)Tralee
 
-Dazu beigetragen, das Team, um mehr als 150 wachsen.
+Helped to grow the team to 150+.
 
-I kontinuierlich integriert weltweiten Entwicklungsteams und unterstützt die Installation auf einer Vielzahl von Plattformen. Wir kontrollierten Freisetzung durch Ausgabe Trackers zu Systemtest, Unterstützung und Kunden, die Fahrgerüste an entfernte Holzfäller vorgesehen, so dass wir Sie auf OK.
+I continuously integrated world-wide development teams and supported installation on a variety of platforms. We controlled release through Issue Trackers to System Test, Support and Customers, who provided mobile towers to remote lumberjacks (so we were OK).
 
-**Python**, Linux, SVN, SQL, **Source-Code-Übersetzung**, Blackduck, Selenium, TV.
+Led the team effort which achieved DO-178B certification of development processes, and contributed to the overall ISO-9000 certification efforts.
 
+I particularly enjoyed mentoring younger engineers, from internships through graduation and on to their own leadership positions.
 
-**Interessantes Projekt**: wurde gebeten, ein **Java**-Programm zu optimieren, so profiliert, dann angepasst, um ein **Python-Parser** zum Mitnehmen die syntaktischer Zucker verlassen Coderahmen, die gcc als **C mit einigen #includes** erkannt. **Profil es noch einmal**, wieder schrieb den Rahmen, **wieder profiliert**, zusätzlichen Features. **Zertifiziert, um auf Flugzeugen zu arbeiten**.
+Tools: Python, Javascript, Linux, SVN, SQL, source code translation, Blackduck, Selenium.
 
-Laurence Dusoswa: **Ein fantastischer Chef**; inspiriert großer Begeisterung und setzt einen hohen Standard. Alan wirklich liebt, was er tut, und ist ein großartiger Mentor und Organisator für Kollegen ... 
+Interesting Project: Was asked to optimize a Java program, so profiled it, then adapted a Python parser to take away the syntactic sugar leaving code frames which gcc recognized as C, with some #includes. Profiled it again, re-wrote the framework, profiled again, added features.
 
-**Co Founder**
+Co Founder
 Omnify Systems Ltd
-2003 - 2005 (2 Jahre) Tralee
+2003 – 2005 (2 years)Tralee
 
-An der Fashion-Industrie ausgerichtet, aber das Geld ausging.
+Last time I programmed on Windows. But ask me about a podcast instead.
 
-**Führer**.
-Interwave
-1999 - 2003 (4 Jahre)
+Leader.
+interWAVE
+1999 – 2003 (4 years)
 
-Ich trat zunächst ein Startup-Unternehmen namens Mikrozellulare Systems, in dem wir einen Software-Team, die Software wie GSM Subscriber Management entwickelt erstellt. Das Entwickler-Team war ein bedeutender Teil der Grund, warum Mikrozellulare wurde von Interwave erworben. Beim Beitritt Interwave war ich für die Übertragung von der Entwicklung ihrer OMC (Betriebs- und Wartungszentrum) **von Silicon Valley zu Tralee** verantwortlich, und dann für alle Aspekte der Entwicklung in Tralee und für die Integration mit anderen Teams in **Amerika und China**.
+On joining interWAVE I was responsible for transfer of the development of their OMC (Operations and Maintenance Centre) from Silicon Valley to Tralee, and then for all aspects of development in Tralee and for integration with other teams in America and China.
 
-**C ++, Solaris, Networking, Telekommunikation**
+Tools: C++, Solaris, Networking, Telecoms, Rational
 
-Maeve Nolan: Alan war sehr motivierend in seine Rolle und die Förderung für jeden, der mit ihm zusammengearbeitet. Er war immer hilfsbereit **und ein großer Mentor**. Er war sehr enthusiastisch in seiner Rolle und eine Freude, mit zu arbeiten und ...
+Interesting question: why does your diff engine compare text, not code?
 
-**Co Founder**
-Mikrozellulare
-1999 - 2001 (2 Jahre) Tralee
+Co Founder
+Microcellular
+1999 – 2001 (2 years)Tralee
 
-Ich war derjenige unter 6 Jungs, die etwas über die Programmierung kannte. Wir bekamen ein **150 + Leute** compan (wie Altobridge) ein paar Jahre später, aber wir in einem Wohnwagen in einem Parkplatz gestartet.
+I initially joined a startup company called Microcellular Systems, where we created a software team which developed software such as GSM subscriber management. This development team was a significant part of the reason why Microcellular was acquired by interWAVE.
 
-Ich hatte Hilfe von Enterprise Ireland für den Aufbau einer Software-Team, das Investitionen von Interwave, und tallent vom Institute of Technology in Tralee angezogen.
+Enterprise Ireland helped us to attract talent from Tralee's Institute of Technology which I built into a Team of 10 strong enough to be aquired by Interwave.
 
+Interesting Project: Mapping locations of approaching GSM towers from a shed.
 
-**Coder**
-Flextime
-1994 - 2000, Cork
+Tools: C, C++, Tcl/Tk, GSM, Windows
 
-Flextime bot eine Windows-System, das HR-Abteilungen dazu beigetragen, Gleitzeit, um Mitarbeiter zu bieten. Das Central Statistics Office (CSO) kaufte das System, aber sie VAX Computern anstatt PCs verwendet. I eine VAX-basierte System, das die Flextime-Daten zur Verfügung, um CSO Personal vorgenommen entwickelt. Das System wurde ursprünglich als ein 6-Monats-Vertrag entwickelt, aber das wurde von einer langen Reihe von kurzfristigen Verträgen über viele Jahre verlängert **und Y2K war schön.**
+Coder
+FlexTime
+1994 – 2000 (6 years)Cork
 
-**Trainer**
-National Training und Development Institute
-1995 - 1999 (4 Jahre) Tralee
+I integrated Flextime's Windows-based system into the CSO (Central Statistics Office) VAX computers. Learned that the customer is always right, except when they think something might be "easy".
 
-Ich habe eine Reihe von mittelfristigen Verträgen mit NTDI. Dies beinhaltete **helfen eine Reihe von mentally- und körperlich-behinderte Menschen**, so viel Hilfe wie möglich vom Computer zu gewinnen, sei es, um sie neu zu trainieren für die Beschäftigung zu helfen, oder manchmal auch nur mit ihrem Leben zu erhalten auf. In vielerlei Hinsicht war dies die lohnendste Position, die ich bisher durchgeführt, und auch die härtesten.
+Interesting Project: Unit testing for The Millennium Bug.
 
-**Lehrer**
+Tools: COBOL, VMS.
+
+Ability Developer
+National Training and Development Institute
+1995 – 1999 (4 years)Tralee
+
+I helped differently abled people to use computers to better meet their needs. This was the toughest and most rewarding position I have undertaken.
+
+Interesting challenge: Explain Visual Basic to someone who has heard Excel Macros. Listening to a programme being read by JAWS changes one's perspective, or one cannot help.
+
+Teacher
 Allied Computer Training
-1989 - 1994 (5 Jahre) Dublin, Irland.
+1989 – 1994 (5 years)Dublin, Ireland.
 
-Entwickelte ein 2-Jahres-City & Guilds zertifizierte Software Engineering natürlich auf großen Maschinen. **Dann auf einer kleinen Maschine mit einem winzigen OS genannt Xenix.
+Developed a 2-year City & Guilds certified Software Engineering course on an i386 running Microfsoft Unix, way back, when they were still nerds.
 
-Das war das letzte Mal, dass ich arbeitete mit Microsoft auf der Kommandozeile.**
+Volunteer Experience & Causes
+Trainer
+Centre for Talented Youth of Ireland
+September 2011 – May 2012 (9 months)Children
+
+Teaching kids to develop Andriod apps
+
+what is a witty which(Link)
+January 2014
+
+"something I love about how simple it is and it's bash"
+
+on Reddit at http://www.reddit.com/r/commandline/comments/2kq8oa/the_most_productive_function_i_have_written/

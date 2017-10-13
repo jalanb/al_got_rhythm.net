@@ -1,0 +1,8 @@
+title: Al Got Rhythm
+description: Well, if that's all there is, then let's go dancing
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
